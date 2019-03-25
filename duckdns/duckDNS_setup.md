@@ -28,7 +28,7 @@ Fundamentally, this is __all__ that docker does. It translates the commands that
 
 In order to use docker as a developer, its important to understand how to use containers before we attempt to create one.
 
-### Practice - Using a pre-made docker image: OpenVPN-AS and DuckDNS
+### Practice - Using a pre-made docker image: DuckDNS
 
 DuckDNS is a free service that keeps your computer’s IP address publicly available. This is important because most ISPs will change your IP address if you ever have a power outage or service interruption. DuckDNS will let you select a subdomain (the 'xxx' part of xxx.duckdns.org) that will __always__ point to the IP address of your computer. 
 
