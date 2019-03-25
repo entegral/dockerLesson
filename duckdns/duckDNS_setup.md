@@ -105,4 +105,6 @@ Next steps:
 
 Only having a couple days to put this lesson together, I wasnt able to create a project that we could "build" together. In lieu of creating a project myself, I vetted a tutorial that I find very useful and helpful [here](*https://docker-curriculum.com/#webapps-with-docker).
 
+if youd like to continue practicing with configuring containers with different parameters, then i would highly recommend using some of [linuxserver.io](https://linuxserver.io)'s pre built images.
+
 Start reading up on this tutorial and I'll be around to help in case you get stuck.
