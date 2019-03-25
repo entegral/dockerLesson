@@ -14,7 +14,7 @@ Docker is nothing more than an application running on a host computer. From our 
 
 This may not sound impressive at first, but imagine trying to run a Windows app on OSX. Or an OSX app on Windows. Or a linux app on either of the previous two. If your app is designed to run inside a docker container, then the docker CLI running on any of those computers will know how to translate the requests (made from inside the docker container) to a system-call that can actually be executed by the hardware that the OS is installed on. 
 
-Fundamentally, this is __all__ that docker does. They translate the commands that your app sends, into something that the host operating system can understand. Its basically an enrormously complex API written for Windows, Linux and OSX.
+Fundamentally, this is __all__ that docker does. It translates the commands that your app sends, into something that the host operating system can understand. Its basically an enrormously complex API written for Windows, Linux and OSX.
 
 
 * Images - aka “Classes” or templates
